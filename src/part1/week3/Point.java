@@ -1,4 +1,4 @@
-package week3;
+package part1.week3;
 
 import java.util.Comparator;
 

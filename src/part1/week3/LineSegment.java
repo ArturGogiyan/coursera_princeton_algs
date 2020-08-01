@@ -1,4 +1,4 @@
-package week3;
+package part1.week3;
 
 /*************************************************************************
  *  Compilation:  javac week3.LineSegment.java
